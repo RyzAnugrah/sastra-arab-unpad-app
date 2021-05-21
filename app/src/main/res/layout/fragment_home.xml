@@ -61,7 +61,7 @@
                             android:layout_height="100dp"
                             android:layout_centerHorizontal="true"
                             android:layout_marginTop="15dp"
-                            app:srcCompat="@drawable/ic_baseline_person_24"/>
+                            app:srcCompat="@drawable/ic_baseline_person_24" />
 
                         <TextView
                             android:id="@+id/profilText"
